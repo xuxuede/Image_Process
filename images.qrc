@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resources/flower1.jpg</file>
+        <file>Resources/flower2.jpg</file>
+    </qresource>
+</RCC>
